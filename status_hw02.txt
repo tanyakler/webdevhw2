@@ -1,0 +1,43 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Tanya Kler
+
+2. What hostname did you deploy to?
+hw02.tanyaklerwebdev.xyz
+
+3. What's the link to your repository on github with your code?
+https://github.com/tanyakler/webdevhw2.git
+
+4. How many HTML / CSS tutorial exercises did you do?
+a lot
+
+5. How comfortable do you feel with HTML and CSS now?
+pretty comfy and cozy
+
+6. How many JS tutorial exercises did you do?
+not many
+
+7. How comfortable do you feel with JS now?
+not that much since we only really worked with buttons
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+yes i guess i tried it
+
+9. Which parts of this assignment did you have trouble with, if any?
+
+making the calculator in js
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
